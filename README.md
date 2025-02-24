@@ -31,6 +31,7 @@ To use **SkyVault**, you need:
 1. Build the program:
 
 ```bash
+npm install
 npm run build
 ```
 
