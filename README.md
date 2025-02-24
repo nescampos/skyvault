@@ -4,6 +4,11 @@
 
 SkyVault is designed as a command line (CLI) to simplify integration into any device with a few commands, schedule periodic backups, and much more.
 
+## Why SkyVault?
+Despite decentralized storage services, they have not been widely used by organizations with heavy data backup requirements (from servers and other systems), because current tools are not very automation-friendly (web interfaces and sometimes no web services), so they have to continue using centralized platforms that provide the appropriate software for their servers.
+
+What is missing, and SkyVault is now filling the gap, is a command interface that can be automated on any server, and integrated into any platform (including AI agents) to provide a simpler experience while taking advantage of the security and decentralization of storage.
+
 ## Features
 
 With **SkyVault**, you can:
