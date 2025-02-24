@@ -72,7 +72,7 @@ program.command('getObject')
   });
 
 program.command('getSharedToMe')
-  .description('Get the metadata a specific File CID')
+  .description('Get the files shared with me')
   .action(async () => {
     await actions.getSharedWithMe();
   });
