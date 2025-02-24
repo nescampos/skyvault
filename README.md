@@ -1,6 +1,6 @@
 # SkyVault
 
-**SkyVault** is a software that allows you to backup files and folders on your computer (and servers) using [Autonomys Network](https://autonomys.xyz/)'s decentralized, permanent storage service, [Auto Drive](https://ai3.storage/), leveraging the capabilities of Secret Network.
+**SkyVault** is a software that allows you to backup files and folders on your computer (and servers) using [Autonomys Network](https://autonomys.xyz/)'s decentralized, permanent storage service, [Auto Drive](https://ai3.storage/), leveraging the capabilities of [Secret Network](https://scrt.network/).
 
 SkyVault is designed as a command line (CLI) to simplify integration into any device with a few commands, schedule periodic backups, and much more.
 
@@ -108,6 +108,8 @@ node dist/index.js searchFiles "<Any pattern/name/part of cid>"
 ## To build
 
 In the future, this CLI will be standalone (no more call to Node everytime).
+
+For now, this project is using _Taurus_ testnet in Secret Network. 
 
 ## License
 
